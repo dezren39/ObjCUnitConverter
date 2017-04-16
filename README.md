@@ -2,6 +2,7 @@
 + Class Assignment, no functions or classes allowed.
 + Created by Pope, Drewry on 3/27/17.
 + Copyright © 2017 assignment1 Drew Pope. All rights reserved.
+
 		#import <Foundation/Foundation.h>
 
 		int main(int argc, const char * argv[]) {
